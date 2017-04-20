@@ -5,7 +5,10 @@
 
 
 ## Angular: 
-- [ ]
+- [ ] TODO
 
 ## React: 
-- [ ]
+- [ ] TODO
+
+## Redux: 
+- [ ] TODO
